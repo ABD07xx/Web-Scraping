@@ -1,1 +1,1 @@
-worker: python Wiki_Final.py
+worker: python --chdir ./Wikipedia/Wiki_Final.py
