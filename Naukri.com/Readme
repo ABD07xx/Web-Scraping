@@ -3,3 +3,4 @@ But the code can be used to scrap all the data from all the pages present
 Streamlit file is also ready to use
 Multi_Windows_Scrap_streamlit.csv contains data of about 30 pages
 Rest csv files are scraped for first 5 pages using streamlit
+If the .ipynb files doesn't behave properly download the RAW format and run it on your local machine
